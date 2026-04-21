@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:vishalyep1022@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/vishal-deeedeep-14a864255"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/vishal-deep-14a864255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://vishaldeep1377.github.io/hey_portfolio/"><img src="https://img.shields.io/badge/Portfolio-black?logo=firefox&style=for-the-badge" /></a>
   <a href="https://vishaldeep1377.github.io/cv/"><img src="https://img.shields.io/badge/Live%20CV-green?logo=adobeacrobatreader&style=for-the-badge" /></a>
 </p>
