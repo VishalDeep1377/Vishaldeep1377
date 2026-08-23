@@ -1,62 +1,63 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=VISHAL%20DEEP&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%20Systems&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=VISHAL%20DEEP&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" />
 
-<a href="mailto:vishalyep1022@gmail.com"><img src="https://img.shields.io/badge/-vishalyep1022@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vishal-deep-14a864255"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://vishaldeep1377.github.io/hey_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=VishalDeep1377&style=flat-square&color=blueviolet&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+scalable+products.;I+build+AI-powered+systems+that+ship.;Code+is+not+just+my+profession%2C+it's+my+passion." />
+
+<br>
+
+<a href="mailto:vishalyep1022@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-deep-14a864255"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://vishaldeep1377.github.io/hey_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/VishalDeep1377"><img src="https://img.shields.io/github/followers/VishalDeep1377?style=for-the-badge&logo=github&label=Followers&color=8957e5" /></a>
 
 </div>
 
 <br>
 
-> **I build software that ships — AI-integrated products, from architecture to production, on my own.**
-> Currently: Software Engineer @ Smartground Infotech · MCA (Generative AI) candidate @ SRM University
+## &gt; whoami
+
+```yaml
+role: Software Engineer @ Smartground Infotech
+education: MCA (Generative AI) — SRM University, Expected 2028
+focus: [ AI Systems, Full Stack Architecture, Scalability, Real-Time Infra ]
+mission: "Building software that solves real-world problems using AI."
+```
 
 <br>
 
-## 30-Second Pitch
-
-I'm not learning to code — I'm shipping. Three production AI products live in the wild (`CodeToCareer`, `Chatera`, `FreakyFit`), each solving a real problem with a real user flow, real payments, or real-time infrastructure. My day job is building automated marketing systems and a live job portal. My focus right now: closing the gap between "developer who uses AI APIs" and "engineer who builds AI systems" — RAG pipelines, agent architectures, reinforcement learning.
-
-If you're hiring for someone who can take a product from a blank repo to a Vercel URL with real users, that's the work below.
-
-<br>
-
-## Track Record
+## &gt; currently_building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**💼 Experience**
+<h3>🧠 CodeToCareer</h3>
+AI-driven adaptive learning platform — mentorship, resume analysis, and interview prep in one place.
 
-**Software Developer**
-Smartground Infotech Pvt. Ltd. · *Jan 2026 – Present*
-Automated email marketing pipelines · Built and shipped a job-search portal connecting medical institutions with candidates · Own and maintain the company's production website
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-**Web Developer (Virtual Internship)**
-Deloitte Australia via Forage · *Jul 2025*
-Built dashboards for business decision-making · Cleaned and classified datasets for analytical accuracy
+**[→ Live](https://code-to-carrer.vercel.app/)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**🎓 Education**
+<h3>🤖 Chatera</h3>
+AI workspace with Gemini API, multi-model fallback, real-time SSE streaming, and PWA support.
 
-**MCA — Generative AI**
-SRM University, Chennai · *Expected 2028*
+<img src="https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/SSE-010101?style=flat-square"/>
 
-**BCA — Data Science**
-Lovely Professional University · *May 2025*
-CGPA: 8.0
+**[→ Live](https://chat-era.vercel.app/)**
 
-**🏅 Recognition**
-Runner-Up, SRMIST × NITROSTACK Hackathon
-Microsoft AI/ML — Advanced Certification
-Google — Generative AI Leader
-Full Stack — University of London
+</td>
+<td width="33%" valign="top">
+
+<h3>💪 FreakyFit</h3>
+AI-personalized fitness platform with live coaching sessions and integrated payments.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/ZegoCloud-FF6B00?style=flat-square"/>
+
+**[→ Live](https://bodymind-ai.netlify.app/)**
 
 </td>
 </tr>
@@ -64,90 +65,32 @@ Full Stack — University of London
 
 <br>
 
-## What I've Shipped
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 [CodeToCareer](https://code-to-carrer.vercel.app/)
-**The problem:** learning to code and preparing for a career happen in disconnected tools.
-
-**What it does:** AI mentorship, resume analysis, and interview prep in one adaptive platform, on a modular REST architecture built to scale.
-
-`Next.js` `TypeScript` `Node.js` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 [Chatera](https://chat-era.vercel.app/)
-**The problem:** most AI chat tools lose context and lock you into one model.
-
-**What it does:** Gemini-powered workspace with multi-model fallback, real-time SSE streaming, GitHub + PDF ingestion, and full PWA support.
-
-`Next.js 16` `Gemini API` `SSE` `NextAuth`
-
-</td>
-<td width="33%" valign="top">
-
-### 💪 [FreakyFit](https://bodymind-ai.netlify.app/)
-**The problem:** generic fitness apps ignore the person using them.
-
-**What it does:** AI-personalized workout and nutrition plans, live coaching sessions via ZegoCloud, and Razorpay checkout — a full consumer product loop.
-
-`React` `ZegoCloud` `Razorpay` `MongoDB`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## How I Work
-
-```
-Idea → Architecture → API design → Build → Ship → Iterate on real usage
-```
-
-I default to **shipping something real over a perfect roadmap** — every project above has a live URL and real users, not just a repo. I write modular REST APIs so features don't require rewrites. I integrate AI where it removes friction for the user, not because it's trendy.
-
-<br>
-
-## Stack
-
-| | |
-|---|---|
-| **Languages** | JavaScript (ES6+) · TypeScript · Python · Java |
-| **Frontend** | React.js · Next.js · Bootstrap |
-| **Backend** | Node.js · Express.js · REST APIs · JWT Auth |
-| **Data** | MongoDB · MongoDB Atlas · MySQL |
-| **AI / ML** | Gemini API · PyTorch · FastAPI · Reinforcement Learning |
-| **Infra** | Docker · Git/GitHub · Vercel · Netlify |
-
-<br>
-
-## Right Now
-
-```diff
-+ Building agent-based architectures for the projects above
-+ Going deeper on RAG pipelines and model orchestration
-+ Open to Software Engineer / Full Stack roles where AI is core to the product
-```
-
-<br>
+## &gt; tech_stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishalDeep1377&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDeep1377&theme=radical&hide_border=true" height="165" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,mysql,py,pytorch,fastapi,docker,git,github,vercel,netlify,figma&theme=dark" />
+
+</div>
 
 <br>
 
-### Let's talk
+## &gt; github_analytics
 
-**vishalyep1022@gmail.com** · Punjab, India
-[LinkedIn](https://www.linkedin.com/in/vishal-deep-14a864255) · [GitHub](https://github.com/VishalDeep1377) · [Portfolio](https://vishaldeep1377.github.io/hey_portfolio/)
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
+<img src="https://github-readme-stats.vercel.app/api?username=VishalDeep1377&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8957e5&text_color=c9d1d9&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDeep1377&theme=github-dark-blue&hide_border=true&background=0d1117&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDeep1377&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDeep1377&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=8957e5&point=ffffff" height="170" />
 
 </div>
+
+<br>
+
+## &gt; achievements
+
+<div align="center">
+
+<img
