@@ -79,23 +79,20 @@ AI-personalized fitness platform with live coaching sessions and integrated paym
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishalDeep1377&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8957e5&text_color=c9d1d9&count_private=true" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDeep1377&theme=github-dark-blue&hide_border=true&background=0d1117&ring=A855F7&fire=ff6b6b&currStreakLabel=A855F7" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDeep1377&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" height="170" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalDeep1377&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=8957e5&point=ffffff" height="170" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VishalDeep1377&label=Public%20Repos&query=$.public_repos&color=8957e5&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/VishalDeep1377?label=Followers&color=A855F7&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VishalDeep1377&label=Public%20Gists&query=$.public_gists&color=D14836&style=for-the-badge&logo=github" />
 
 </div>
 
 <br>
 
 ## &gt; achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishalDeep1377&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
-
-</div>
 
 - 🥈 Runner-Up — SRMIST × NITROSTACK Hackathon
 - 🤖 Microsoft AI/ML — Advanced Certification
