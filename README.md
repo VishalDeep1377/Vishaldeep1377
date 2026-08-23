@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=VISHAL%20DEEP&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" />
+<img width="100%" src="banner.svg" />
 
 <img width="90%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+scalable+products.;I+build+AI-powered+systems+that+ship.;Code+is+not+just+my+profession%2C+it's+my+passion." />
 
