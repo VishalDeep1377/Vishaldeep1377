@@ -1,214 +1,153 @@
-<h1 align="center">⚡ VISHAL DEEP ⚡</h1>
+<div align="center">
 
-<h3 align="center">Building AI-Powered Products • Full Stack Systems • Modern Web Applications</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=VISHAL%20DEEP&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%20Systems&descAlignY=58&descSize=18" />
 
-<p align="center">
-  <a href="mailto:vishalyep1022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vishal-deep-14a864255">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VishalDeep1377">
-    <img src="https://img.shields.io/github/followers/VishalDeep1377?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://vishaldeep1377.github.io/hey_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:vishalyep1022@gmail.com"><img src="https://img.shields.io/badge/-vishalyep1022@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishal-deep-14a864255"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://vishaldeep1377.github.io/hey_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=VishalDeep1377&style=flat-square&color=blueviolet&label=Profile+Views" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Systems+Enthusiast;Building+Scalable+Web+Applications;MCA+(Generative+AI)+%40+SRM+University" alt="Typing SVG" />
-</p>
+</div>
 
----
+<br>
 
-## 👨‍💻 Who Am I?
+> **I build software that ships — AI-integrated products, from architecture to production, on my own.**
+> Currently: Software Engineer @ Smartground Infotech · MCA (Generative AI) candidate @ SRM University
 
-```java
-class VishalDeep {
+<br>
 
-    String role = "Software Engineer";
+## 30-Second Pitch
 
-    String education = "MCA (Generative AI) @ SRM University";
+I'm not learning to code — I'm shipping. Three production AI products live in the wild (`CodeToCareer`, `Chatera`, `FreakyFit`), each solving a real problem with a real user flow, real payments, or real-time infrastructure. My day job is building automated marketing systems and a live job portal. My focus right now: closing the gap between "developer who uses AI APIs" and "engineer who builds AI systems" — RAG pipelines, agent architectures, reinforcement learning.
 
-    String[] expertise = {
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Scalable Architectures",
-        "Cloud Systems",
-        "Modern Web Apps"
-    };
+If you're hiring for someone who can take a product from a blank repo to a Vercel URL with real users, that's the work below.
 
-    String currentMission =
-        "Building software that solves real-world problems using AI.";
-}
-```
+<br>
 
----
+## Track Record
 
-## 🚀 Journey
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Year | Milestone |
-|------|-----------|
-| 2028 🎓 | MCA (Generative AI) — SRM University |
-| 2026 💼 | Software Engineer — Smartground Infotech Pvt. Ltd. |
-| 2025 🏆 | Web Developer — Deloitte Australia (Forage Virtual Internship) |
-| 2025 🎓 | BCA (Data Science) — Lovely Professional University, CGPA: 8.0 |
+**💼 Experience**
 
----
+**Software Developer**
+Smartground Infotech Pvt. Ltd. · *Jan 2026 – Present*
+Automated email marketing pipelines · Built and shipped a job-search portal connecting medical institutions with candidates · Own and maintain the company's production website
 
-## ⚡ What I Build
+**Web Developer (Virtual Internship)**
+Deloitte Australia via Forage · *Jul 2025*
+Built dashboards for business decision-making · Cleaned and classified datasets for analytical accuracy
 
-I enjoy engineering systems where modern software meets Artificial Intelligence.
+</td>
+<td width="50%" valign="top">
 
-- ✔️ AI SaaS Platforms
-- ✔️ Career Development Products
-- ✔️ Intelligent Fitness Applications
-- ✔️ Real-Time Communication Systems
-- ✔️ REST APIs & Backend Architectures
-- ✔️ Modern Full Stack Experiences
+**🎓 Education**
 
----
+**MCA — Generative AI**
+SRM University, Chennai · *Expected 2028*
 
-## 🚀 Flagship Products
+**BCA — Data Science**
+Lovely Professional University · *May 2025*
+CGPA: 8.0
+
+**🏅 Recognition**
+Runner-Up, SRMIST × NITROSTACK Hackathon
+Microsoft AI/ML — Advanced Certification
+Google — Generative AI Leader
+Full Stack — University of London
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## What I've Shipped
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🧠 [CodeToCareer](https://code-to-carrer.vercel.app/)
-An AI-driven adaptive learning platform connecting programming education with career preparation — featuring AI-powered mentorship, resume analysis, interview prep, and personalized learning.
+**The problem:** learning to code and preparing for a career happen in disconnected tools.
 
-**Stack:** Next.js · TypeScript · Node.js · Express.js · MongoDB
+**What it does:** AI mentorship, resume analysis, and interview prep in one adaptive platform, on a modular REST architecture built to scale.
 
----
+`Next.js` `TypeScript` `Node.js` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
 
 ### 🤖 [Chatera](https://chat-era.vercel.app/)
-An advanced AI workspace powered by Google Gemini, with multi-model fallback and real-time SSE streaming.
+**The problem:** most AI chat tools lose context and lock you into one model.
 
-**Features:** GitHub Integration · Project-Based Chats · PDF Context Ingestion · Real-Time Streaming · API Rate Limiting · PWA Support
+**What it does:** Gemini-powered workspace with multi-model fallback, real-time SSE streaming, GitHub + PDF ingestion, and full PWA support.
 
-**Stack:** Next.js 16 · TypeScript · Gemini API · MongoDB · NextAuth.js · SSE
+`Next.js 16` `Gemini API` `SSE` `NextAuth`
 
----
+</td>
+<td width="33%" valign="top">
 
 ### 💪 [FreakyFit](https://bodymind-ai.netlify.app/)
-An AI-powered fitness platform delivering personalized workout and nutrition recommendations, with an AI chatbot and real-time live sessions.
+**The problem:** generic fitness apps ignore the person using them.
 
-**Features:** AI Chatbot · Live Sessions (ZegoCloud) · Razorpay Payments
+**What it does:** AI-personalized workout and nutrition plans, live coaching sessions via ZegoCloud, and Razorpay checkout — a full consumer product loop.
 
-**Stack:** React.js · Node.js · MongoDB · Razorpay · ZegoCloud
+`React` `ZegoCloud` `Razorpay` `MongoDB`
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Mission 2026
+<br>
 
-Building products at the intersection of **Artificial Intelligence + Scalable Systems + Human Productivity**
+## How I Work
 
-**Current Focus:**
-- → Advanced AI Agents
-- → Generative AI Applications
-- → SaaS Architecture
-- → Full Stack Engineering
-- → System Design
-
----
-
-## ⚙️ Technology Arsenal
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / Systems**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-## 🏗️ How I Think About Systems
-
-```text
-                ┌─────────────┐
-                │   Frontend  │
-                └──────┬──────┘
-                       │
-             React / Next.js
-                       │
-        ┌──────────────┼──────────────┐
-        │                             │
-        ▼                             ▼
-   REST APIs                    AI Services
-        │                             │
-        ▼                             ▼
-    MongoDB                  Gemini / PyTorch
+```
+Idea → Architecture → API design → Build → Ship → Iterate on real usage
 ```
 
----
+I default to **shipping something real over a perfect roadmap** — every project above has a live URL and real users, not just a repo. I write modular REST APIs so features don't require rewrites. I integrate AI where it removes friction for the user, not because it's trendy.
 
-## 🏅 Achievement Wall
+<br>
 
-- 🥈 **Runner Up** — SRMIST × NITROSTACK Hackathon
-- 🤖 **Microsoft AI/ML** — Advanced Certification
-- 🌟 **Generative AI Leader** — Google
-- 💻 **Full Stack Development** — University of London
+## Stack
 
----
+| | |
+|---|---|
+| **Languages** | JavaScript (ES6+) · TypeScript · Python · Java |
+| **Frontend** | React.js · Next.js · Bootstrap |
+| **Backend** | Node.js · Express.js · REST APIs · JWT Auth |
+| **Data** | MongoDB · MongoDB Atlas · MySQL |
+| **AI / ML** | Gemini API · PyTorch · FastAPI · Reinforcement Learning |
+| **Infra** | Docker · Git/GitHub · Vercel · Netlify |
 
-## 💭 Philosophy
+<br>
 
-I don't just write code — I build products.
+## Right Now
 
-Great software combines:
+```diff
++ Building agent-based architectures for the projects above
++ Going deeper on RAG pipelines and model orchestration
++ Open to Software Engineer / Full Stack roles where AI is core to the product
+```
 
-- ✅ Engineering Excellence
-- ✅ User Experience
-- ✅ Scalability
-- ✅ Artificial Intelligence
-- ✅ Real Business Value
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalDeep1377&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDeep1377&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDeep1377&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
+<br>
 
 <div align="center">
 
-## Let's Build Something Extraordinary
+<img src="https://github-readme-stats.vercel.app/api?username=VishalDeep1377&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalDeep1377&theme=radical&hide_border=true" height="165" />
 
-**Artificial Intelligence + Modern Full Stack Development + Scalable Product Engineering**
+<br>
 
-📧 vishalyep1022@gmail.com  &nbsp;|&nbsp; 🌎 Punjab, India
+### Let's talk
 
+**vishalyep1022@gmail.com** · Punjab, India
 [LinkedIn](https://www.linkedin.com/in/vishal-deep-14a864255) · [GitHub](https://github.com/VishalDeep1377) · [Portfolio](https://vishaldeep1377.github.io/hey_portfolio/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" />
 
 </div>
