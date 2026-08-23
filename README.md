@@ -93,4 +93,41 @@ AI-personalized fitness platform with live coaching sessions and integrated paym
 
 <div align="center">
 
-<img
+<img src="https://github-profile-trophy.vercel.app/?username=VishalDeep1377&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+
+</div>
+
+- 🥈 Runner-Up — SRMIST × NITROSTACK Hackathon
+- 🤖 Microsoft AI/ML — Advanced Certification
+- 🌟 Google — Generative AI Leader
+- 💻 Full Stack Development — University of London
+
+<br>
+
+## &gt; contribution_snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VishalDeep1377/VishalDeep1377/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>*(Animated snake eats your contribution graph — one-time setup below activates it)*</sub>
+
+</div>
+
+<br>
+
+## &gt; connect
+
+<div align="center">
+
+<a href="https://github.com/VishalDeep1377"><img src="https://img.shields.io/badge/GitHub-@VishalDeep1377-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishal-deep-14a864255"><img src="https://img.shields.io/badge/LinkedIn-vishal--deep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vishalyep1022@gmail.com"><img src="https://img.shields.io/badge/Email-vishalyep1022-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<i>"The best way to predict the future is to build it." — Peter Drucker</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer" />
+
+</div>
