@@ -109,8 +109,6 @@ AI-personalized fitness platform with live coaching sessions and integrated paym
 
 <img src="https://raw.githubusercontent.com/VishalDeep1377/VishalDeep1377/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>*(Animated snake eats your contribution graph — one-time setup below activates it)*</sub>
-
 </div>
 
 <br>
