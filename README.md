@@ -10,7 +10,7 @@
 
 <a href="mailto:vishalyep1022@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vishal-deep-14a864255"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://vishaldeep1377.github.io/hey_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-one-self-55.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/VishalDeep1377"><img src="https://img.shields.io/github/followers/VishalDeep1377?style=for-the-badge&logo=github&label=Followers&color=8957e5" /></a>
 
 </div>
@@ -39,7 +39,7 @@ AI-driven adaptive learning platform — mentorship, resume analysis, and interv
 
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-**[→ Live](https://code-to-carrer.vercel.app/)**
+**[→ Live](https://code-to-carrer.netlify.app/)**
 
 </td>
 <td width="33%" valign="top">
