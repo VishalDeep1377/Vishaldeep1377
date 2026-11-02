@@ -1,5 +1,14 @@
 <div align="center">
 
+<!-- PREMIUM PROFILE IMAGE -->
+<img
+  src="./profilepic.png"
+  width="220"
+  alt="Vishal Deep - Software Engineer"
+  style="border-radius: 50%; border: 4px solid #8957e5;"
+/>
+
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=VISHAL%20DEEP&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%20Systems&descAlignY=58&descSize=18" />
 
