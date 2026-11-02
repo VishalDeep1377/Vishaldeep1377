@@ -2,7 +2,7 @@
 
 <!-- PREMIUM PROFILE IMAGE -->
 <img
-  src="./profilepic.png"
+  src="./profilepic.png.png"
   width="220"
   alt="Vishal Deep - Software Engineer"
   style="border-radius: 50%; border: 4px solid #8957e5;"
