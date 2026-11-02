@@ -1,14 +1,17 @@
 <div align="center">
 
-<!-- PREMIUM PROFILE IMAGE -->
-<img
-  src="./profilepic.png.png"
+<div align="center">
 
-  alt="Vishal Deep - Software Engineer"
+<img src="./profilepic.png.png"
+     width="280"
+     alt="Vishal Deep"
+ />
 
-/>
+<h1>VISHAL DEEP</h1>
 
-<br><br>
+<h3>Software Engineer | Full Stack Developer | AI Systems</h3>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=VISHAL%20DEEP&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%2B%20AI%20Systems&descAlignY=58&descSize=18" />
 
