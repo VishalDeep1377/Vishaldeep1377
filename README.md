@@ -1,15 +1,10 @@
 <div align="center">
 
-<div align="center">
-
-<img src="./profilepic.png.png"
-     width="280"
-     alt="Vishal Deep"
- />
-
-<h1>VISHAL DEEP</h1>
-
-<h3>Software Engineer | Full Stack Developer | AI Systems</h3>
+<img
+  src="./profilepic.png.png"
+  width="100%"
+  alt="Vishal Deep - Software Engineer"
+/>
 
 </div>
 
