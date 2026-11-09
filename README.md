@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./profilepic.png.png"
+  src="./githubprofile.png"
   width="100%"
   alt="Vishal Deep - Software Engineer"
 />
